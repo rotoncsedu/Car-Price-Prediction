@@ -61,7 +61,7 @@ Deployed using Streamlit.
 
 ### Screenshot
 
-![Streamlit App](screenshots/app.png)
+![Streamlit App](screenshots/ss.png)
 
 ## Installation
 
